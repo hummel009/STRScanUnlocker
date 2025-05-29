@@ -1,2 +1,3 @@
-STRScanUnlocker – аддон к моду «Властелин колец» для Minecraft 1.7.10. Добавляет команду для сканирования структур в
-формате мода «Властелин колец».
+STRScanUnlocker – аддон к моду «Властелин колец» на Minecraft 1.7.10.
+
+Подробнее: https://lotrminecraftmod.fandom.com/ru/wiki/STRScanUnlocker.
